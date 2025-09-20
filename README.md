@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **anuprasadp2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Enter your Java
+- 🌱 **I’m currently learning:** Java Programming 
 - 👯 **I’m looking to collaborate on:** Any Project
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anuprasadp2004@gmail.com
