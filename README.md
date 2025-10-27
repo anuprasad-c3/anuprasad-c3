@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Anuprasad
-**A passionate Web Developer
+A passionate Web Developer
 
-Email Me 👉 ✉️ **anuprasadp2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ anuprasadp2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Java Programming 
 - 👯 **I’m looking to collaborate on:** Any Project
