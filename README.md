@@ -1,14 +1,22 @@
 # 💫 Hi 👋, I'm Anuprasad
-A passionate Web Developer
 
-Email Me 👉 ✉️ anuprasadp2004@gmail.com For Collaboration/Project or Anything Else. 😊😊
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-- 🌱 **I’m currently learning:** Java Programming 
-- 👯 **I’m looking to collaborate on:** Any Project
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** anuprasadp2004@gmail.com
-- 😄 **Pronouns:** Anuprasad
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anu_p_r_a_s_a_d_c3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anu-prasad-c3/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ANU-PRASAD-the-encoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuprasadp2004@gmail.com) 
