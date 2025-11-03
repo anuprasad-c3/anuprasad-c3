@@ -1,4 +1,10 @@
-# 💫 Hi 👋, I'm Anuprasad
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Anuprasad%20&width=600&height=90" />
+</p>
+
+<h3 align="center">Building Clean & Modern Web Experiences 💻</h3>
+
+
 
 <div align="center">
   <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
