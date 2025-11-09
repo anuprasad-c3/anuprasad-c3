@@ -21,7 +21,7 @@
 ---
 
 ### 💡 About Me  
-🎓 BCA Student passionate about Web Development and AI  
+🎓 MCA Student passionate about Web Development and AI  
 💻 Currently exploring Django, React, and Node.js  
 🚀 Working on innovative full-stack web projects  
 🎯 Goal: Become a professional Full-Stack Developer and AI Engineer  
