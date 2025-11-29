@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="images/banner.jpg" alt="GitHub Banner" width="100%">
+
 <br>
 
 <!-- HEADER TYPING SVG -->
