@@ -1,0 +1,29 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frontendGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff" />
+      <stop offset="100%" stop-color="#09fbd3" />
+    </linearGradient>
+    <linearGradient id="backendGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#09fbd3" />
+      <stop offset="100%" stop-color="#ff00e4" />
+    </linearGradient>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00e4" />
+      <stop offset="100%" stop-color="#00eaff" />
+    </linearGradient>
+  </defs>
+  
+  <circle cx="200" cy="100" r="60" fill="none" stroke="rgba(0,234,255,0.2)" stroke-width="12" />
+  <circle cx="200" cy="100" r="60" fill="none" stroke="url(#frontendGradient)" stroke-width="12" stroke-dasharray="314" stroke-dashoffset="94" transform="rotate(-90 200 100)"/>
+  
+  <circle cx="200" cy="100" r="45" fill="none" stroke="rgba(9,251,211,0.2)" stroke-width="12" />
+  <circle cx="200" cy="100" r="45" fill="none" stroke="url(#backendGradient)" stroke-width="12" stroke-dasharray="283" stroke-dashoffset="85" transform="rotate(-90 200 100)"/>
+  
+  <circle cx="200" cy="100" r="30" fill="none" stroke="rgba(255,0,228,0.2)" stroke-width="12" />
+  <circle cx="200" cy="100" r="30" fill="none" stroke="url(#aiGradient)" stroke-width="12" stroke-dasharray="188" stroke-dashoffset="56" transform="rotate(-90 200 100)"/>
+  
+  <text x="200" y="75" text-anchor="middle" fill="#00eaff" font-size="12" font-weight="bold">FRONTEND 70%</text>
+  <text x="200" y="115" text-anchor="middle" fill="#09fbd3" font-size="12" font-weight="bold">BACKEND 80%</text>
+  <text x="200" y="155" text-anchor="middle" fill="#ff00e4" font-size="12" font-weight="bold">AI/ML 60%</text>
+</svg>
