@@ -98,12 +98,12 @@ CI/CD pipeline optimization suite.
 </div>
 
 <div style="text-align: center; padding: 1rem; border: 2px solid #228B22; border-radius: 10px;">
-  <div style="font-size: 2rem;">🟢</div>
+  <div style="font-size: 3rem;">🟢</div>
   <div style="color: #228B22; font-weight: bold;">Node.js</div>
 </div>
 
 <div style="text-align: center; padding: 1rem; border: 2px solid #32CD32; border-radius: 10px;">
-  <div style="font-size: 2rem;">🐍</div>
+  <div style="font-size: 3rem;">🐍</div>
   <div style="color: #32CD32; font-weight: bold;">Python</div>
 </div>
 
@@ -113,12 +113,12 @@ CI/CD pipeline optimization suite.
 </div>
 
 <div style="text-align: center; padding: 1rem; border: 2px solid #228B22; border-radius: 10px;">
-  <div style="font-size: 2rem;">🐳</div>
+  <div style="font-size: 3rem;">🐳</div>
   <div style="color: #228B22; font-weight: bold;">Docker</div>
 </div>
 
 <div style="text-align: center; padding: 1rem; border: 2px solid #32CD32; border-radius: 10px;">
-  <div style="font-size: 2rem;">☁️</div>
+  <div style="font-size: 3rem;">☁️</div>
   <div style="color: #32CD32; font-weight: bold;">AWS</div>
 </div>
 
