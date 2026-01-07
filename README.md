@@ -1,207 +1,112 @@
-<div align="center">
-
-<img src="images/banner.jpg" alt="GitHub Banner" width="100%">
-
-<br>
-
-<!-- HEADER TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Anu+Prasad;Full-Stack+Artisan;Clean+Code+Advocate;Digital+Craftsman" />
-
-<p><i>Crafting digital experiences with precision and elegance.</i></p>
-
-<br>
-
-<!-- MASTER BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-Artisan-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Code-Advocate-228B22?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Craftsman-32CD32?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 🎯 Development Philosophy
-
-> *"I don't just write code; I craft solutions. Every line tells a story, every function serves a purpose, and every application reflects thoughtful design."*
-
----
-
-## 🛠 Core Expertise
-
-<div align="center">
-
-| **Frontend Artistry** | **Backend Engineering** | **DevOps & Tools** |
-|----------------------|-------------------------|--------------------|
-| React • Next.js • TS | Node.js • Python • Java | Docker • AWS • Git |
-| Vue • Angular • Svelte | Express • Django • Spring | K8s • Jenkins |
-| Tailwind • SCSS • Framer | PostgreSQL • MongoDB • Redis | GitHub Actions |
-
-</div>
-
----
-
-## 🌟 Signature Projects
-
-### 🎨 **Elegant UI System**
-*A comprehensive design system built with React & TypeScript.*
-
-- ✨ **60+ components**
-- ♿ Full accessibility
-- 🌙 Dark mode  
-**Tech:** React, TS, Storybook, Styled Components  
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Production-32CD32?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-250%2B-yellow?style=flat-square" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Anuprasad%20&width=600&height=90" />
 </p>
 
----
-
-### ⚡ **Performance Analytics**
-Real-time performance monitoring suite.
-
-- 📈 Live Metrics  
-- 🧠 Automated Insights  
-- 📊 Custom Dashboards  
-**Tech:** Node.js, WebSocket, D3.js, PostgreSQL
-
----
-
-### 🔧 **DevOps Automation**
-CI/CD pipeline optimization suite.
-
-- 🚀 Auto-scaling  
-- 🔐 Security scanning  
-- 🌐 Multi-environment  
-**Tech:** Docker, Kubernetes, GitHub Actions, AWS  
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Enterprise-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/Adopted-50%2B%20Teams-green?style=flat-square" />
-</p>
-
----
-
-## 📊 Development Rhythm
+<h3 align="center">Building Clean & Modern Web Experiences 💻</h3>
 
 
 
 <div align="center">
-
-## 🛠 Technology Stack
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; margin: 2rem 0; max-width: 700px;">
-
-<div style="text-align: center; padding: 1rem; border: 2px solid #2E8B57; border-radius: 10px;">
-  <div style="font-size: 2rem;">⚛️</div>
-  <div style="color: #2E8B57; font-weight: bold;">React</div>
-</div>
-
-<div style="text-align: center; padding: 1rem; border: 2px solid #228B22; border-radius: 10px;">
-  <div style="font-size: 3rem;">🟢</div>
-  <div style="color: #228B22; font-weight: bold;">Node.js</div>
-</div>
-
-<div style="text-align: center; padding: 1rem; border: 2px solid #32CD32; border-radius: 10px;">
-  <div style="font-size: 3rem;">🐍</div>
-  <div style="color: #32CD32; font-weight: bold;">Python</div>
-</div>
-
-<div style="text-align: center; padding: 1rem; border: 2px solid #2E8B57; border-radius: 10px;">
-  <div style="font-size: 2rem;">🗄️</div>
-  <div style="color: #2E8B57; font-weight: bold;">MongoDB</div>
-</div>
-
-<div style="text-align: center; padding: 1rem; border: 2px solid #228B22; border-radius: 10px;">
-  <div style="font-size: 3rem;">🐳</div>
-  <div style="color: #228B22; font-weight: bold;">Docker</div>
-</div>
-
-<div style="text-align: center; padding: 1rem; border: 2px solid #32CD32; border-radius: 10px;">
-  <div style="font-size: 3rem;">☁️</div>
-  <div style="color: #32CD32; font-weight: bold;">AWS</div>
-</div>
-
-</div>
-
-</div>
-
-
-
-</div>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuprasad&theme=default&hide_border=true&background=FFFFFF00&dates=333333&ring=2E8B57&fire=32CD32&currStreakNum=2E8B57" />
-
+  <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ---
-
-## 🎯 Technical Mastery
-
-```ts
-interface DeveloperSkills {
-  frontend: {
-    frameworks: ['React', 'Vue', 'Angular'],
-    styling: ['Tailwind', 'CSS-in-JS', 'SCSS'],
-    stateManagement: ['Redux', 'Context', 'Zustand']
-  };
-  backend: {
-    languages: ['JavaScript', 'Python', 'Java'],
-    frameworks: ['Node.js', 'Express', 'Django'],
-    databases: ['PostgreSQL', 'MongoDB', 'Redis']
-  };
-  devOps: {
-    containers: ['Docker', 'Kubernetes'],
-    cloud: ['AWS', 'Vercel', 'Netlify'],
-    automation: ['GitHub Actions', 'Jenkins']
-  };
-  principles: [
-    'Clean Code',
-    'Test-Driven Development',
-    'Performance Optimization',
-    'Accessibility First'
-  ];
-}
-```
-
----
-
-## 📬 Let's Build Something Amazing
 
 <div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+</div>
 
-<p><i>Always open to collaborations, freelance work, and visionary projects.</i></p>
+---
 
-<a href="mailto:anuprasadp2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anuprasadp2004@gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 💡 About Me  
+🎓 MCA Student passionate about Web Development and AI  
+💻 Currently exploring Django, React, and Node.js  
+🚀 Working on innovative full-stack web projects  
+🎯 Goal: Become a professional Full-Stack Developer and AI Engineer  
 
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuprasad-c3/anuprasad-c3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuprasad-c3/anuprasad-c3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anuprasad-c3/anuprasad-c3/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anu_p_r_a_s_a_d_c3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anu-prasad-c3/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ANU-PRASAD-the-encoder)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuprasadp2004@gmail.com)
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=anuprasad-c3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+# 💻 Tech Stack
+
+### 🧩 Frontend  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗃️ Database  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🎨 Design  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=anuprasad-c3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://nirzak-streak-stats.vercel.app/?user=anuprasad-c3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuprasad-c3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-## 🎭 Beyond the Code
+### 🔝 Top Contributed Repos  
+![](https://github-contributor-stats.vercel.app/api?username=anuprasad-c3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
+---
 
-📚 Reading philosophy & tech literature  
-🎵 Curating deep-focus playlists  
-☕ Exploring cafés  
-🎨 Sketching UI concepts  
+[![](https://visitcount.itsvg.in/api?id=anuprasad-c3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-*"Good software is like fine craftsmanship — beautiful, functional, and built to last."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=100&section=footer" />
-
-</div>
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
